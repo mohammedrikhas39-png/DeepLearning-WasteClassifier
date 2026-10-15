@@ -1,0 +1,12 @@
+{
+  "test_loss": 0.6468236446380615,
+  "test_accuracy": 0.7698863744735718,
+  "classes": [
+    "Garbage classification",
+    "cardboard",
+    "glass",
+    "metal",
+    "paper",
+    "plastic"
+  ]
+}
